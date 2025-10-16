@@ -294,7 +294,7 @@ function App() {
 
           <div className="flex gap-6 justify-center">
             <a
-              href="https://github.com/mathivanan-g"
+              href="https://github.com/Mathi8843"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 border border-gray-800 hover:border-emerald-500 rounded-full transition-all hover:bg-emerald-500/10"
@@ -302,7 +302,7 @@ function App() {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://www.linkedin.com/in/mathivanan-g"
+              href="https://www.linkedin.com/in/mathivanan-g-29015325a/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 border border-gray-800 hover:border-emerald-500 rounded-full transition-all hover:bg-emerald-500/10"
